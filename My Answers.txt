@@ -1,12 +1,8 @@
 ﻿CORE JAVA EXERCISE 
 
- 
-
 Problem Statement: 
 
 Find out whether the following file will compile. If it does not compile, how you would fix it? 
-
-  
 
  public static void main(String[ ] args) { 
 
